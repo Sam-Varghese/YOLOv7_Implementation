@@ -34,7 +34,7 @@ These are the companies that leverages this state-of-the-art algorithm in their 
 
 ### Tesla, SDV's
 
-![Tesla SDV's](images/tesla.png)
+![Tesla SDV's](./images/tesla.png)
 
 ### Mercedes Benz
 
