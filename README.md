@@ -34,19 +34,19 @@ These are the companies that leverages this state-of-the-art algorithm in their 
 
 ### Tesla, SDV's
 
-![Tesla SDV's](images/tesla.webp)
+![Tesla SDV's](images/tesla.png)
 
 ### Mercedes Benz
 
-![Benz](images/benz.webp)
+![Benz](images/benz.png)
 
 ### NASA
 
-![NASA, space](images/benz.webp)
+![NASA, space](images/space.png)
 
 ### OpenAI, ChatGPT
 
-![openAI](images/openAI.webp)
+![openAI](images/openAI.png)
 
 ## Acknowledgements
 
