@@ -12,7 +12,7 @@ YOLO stands for You Only Look Once. Works by dividing the input image into grids
 
 <div align="center">
     <a href="./">
-        <img src="./figure/performance.png" width="79%"/>
+        <img src="./figure/performance.jpg" width="79%"/>
     </a>
 </div>
 
@@ -36,19 +36,19 @@ These are the companies that leverages this state-of-the-art algorithm in their 
 
 ### Tesla, SDV's
 
-![Tesla SDV's](./images/tesla.png)
+![Tesla SDV's](./images/tesla.jpg)
 
 ### Mercedes Benz
 
-![Benz](images/benz.png)
+![Benz](images/benz.jpg)
 
 ### NASA
 
-![NASA, space](images/space.png)
+![NASA, space](images/space.jpg)
 
 ### OpenAI, ChatGPT
 
-![openAI](images/openAI.png)
+![openAI](images/openAI.jpg)
 
 ## Acknowledgements
 
