@@ -8,6 +8,8 @@ YOLOv7 surpasses all known object detectors in both speed and accuracy in the ra
 
 YOLO stands for You Only Look Once. Works by dividing the input image into grids and applies a single neural network to the entire image in a single forward pass. The network predicts bounding boxes and class probabilities directly using [convolution layers](https://www.ibm.com/topics/convolutional-neural-networks). Unlike Sliding Window object detection algorithms, it does detection just by a single pass, avoiding redundant computations, and making it the fastest.
 
+[Yolo_implementation](./Yolo_implementation/YOLO_Research.ipynb) contains files of Yolo implementation I've done.
+
 <div align="center">
     <a href="./">
         <img src="./figure/performance.png" width="79%"/>
